@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+#empo{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.data{
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
