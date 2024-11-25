@@ -1,0 +1,34 @@
+{
+    "student":[
+        {
+            "rollno":121,
+            "name":"shubham",
+            "city":"Bhopal",
+            "fess":4256
+        },
+        {
+            "rollno":122,
+            "name":"danish",
+            "city":"betul",
+            "fess":4500
+        },
+        {
+            "rollno":123,
+            "name":"shubham",
+            "city":"indore",
+            "fess":4526
+        },
+        {
+            "rollno":124,
+            "name":"shubham",
+            "city":"ujjen",
+            "fess":4526
+        },
+        {
+            "rollno":125,
+            "name":"shubham",
+            "city":"jablpur",
+            "fess":4500
+        }
+    ]
+}
